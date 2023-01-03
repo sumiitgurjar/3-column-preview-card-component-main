@@ -136,12 +136,12 @@ body {
 
 .heading {
   text-transform: uppercase;
-  color: var(--clr-neutral-100);
+  color: var(--clr-neutral-400);
   font-family: var(--ff-Big_Shoulders_Display);
   font-weight: var(--fw-bold);
   padding-left: 15px;
   margin: 10px;
-  font-size: 2rem;
+  font-size: 2.5rem;
 }
 
 .paragraph {
